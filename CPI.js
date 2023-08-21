@@ -8,7 +8,6 @@ const tfoot = document.querySelector("#tfoot");
 const table = document.querySelector("#table");
 const calcGp = document.querySelector("#calc-gp");
 const clear = document.querySelector("#clear");
-
 let gpArry = [];
 
 add.addEventListener("click", () => {
